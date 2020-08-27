@@ -1,16 +1,33 @@
 ---
 layout: page
-title: A Propos
+title: About
 permalink: /about/
 ---
-Ce site a été créé dans le but de partager mes projets, mes expériences et mes passions.
-Mes sujets de prédilections sont principalement :
 
-- Les systèmes embarqués (Arduino, Raspberry Pi, STM8, STM32, etc...)
-- Le monde du libre
-- Les OS de types *NIX (BSD, Linux, etc...)
-- La programmation
-- L'électronique
-- La sécurité informatique
+### WHOIAM?
 
-Laissez-vous guider et bonne visite !
+I'm a Cybersercurity studients who have the dream to be a Read-Teamer. I'm in High school, this is where i learn **JAVA** scripting. 
+
+By my own I learn hacking with tryhackme.com, this blog be used to share to you my writeup and my projets.
+
+I use Ubuntu in my day life to become more familiar with the linux environment.
+
+
+
+### Coding skills :
+
+
+**HTML** / **CSS** : Basic scripting
+
+**Java** : Good scripting (video games, server/client)
+
+**Python** : Good scripting
+
+**BASH** : Beginner
+
+**SQL** : Beginner
+
+
+
+### Contact me 
+[akasaru0@protonmail.com](mailto:email@domain.com)
