@@ -3,14 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Jugulaire
-title: P0pR0cK5's Blog
+name: AkaSaru
+title: AkaSaru's Blog
 # Short bio or description (displayed in the header)
-description: "Pentest, Challenges, Tests and more ..."
+description: Cybersecurity Student
 show_downloads: false
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/13420167?v=4&s=40
+avatar: https://avatars3.githubusercontent.com/u/46965214?s=460&u=c48ccec03bfff0619665bdd5faf3a4282197bcc4&v=4
 #
 # Flags below are optional
 #
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://jugulaire.github.io/
+url:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
