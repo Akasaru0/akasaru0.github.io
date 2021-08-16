@@ -1,6 +1,6 @@
 ---
 layout: post
-title: THM : Geolocating Images
+title: Geolocating Images
 ---
 
 Room to understand how to geolocate images
