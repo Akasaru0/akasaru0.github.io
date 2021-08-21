@@ -1,6 +1,6 @@
 ---
 layout: post
-title: THM : OSI Model
+title: OSI Model
 ---
 
 
