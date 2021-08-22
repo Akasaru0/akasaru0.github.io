@@ -8,7 +8,7 @@ title: OSI Model
 
 Learn about the fundamental networking framework that determines the various stages in which data is handled across a network.
 
-# [Task 1] What is the OSI Model?
+## [Task 1] What is the OSI Model?
 
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 680.9 616.6" style="enable-background:new 0 0 680.9 616.6;" xml:space="preserve">
@@ -271,7 +271,7 @@ What is the key term for when pieces of information get added to data?
 </details>
 
 
-# [Task 2] Layer 7 - Application
+## [Task 2] Layer 7 - Application
 
 ![Application](https://raw.githubusercontent.com/Akasaru0/akasaru0.github.io/master/Images/THM%20OSI%20Model/application.png)
 
@@ -299,7 +299,7 @@ What is the technical term that is given to the name of the software that users 
 </details>
 
 
-# [Task 3] Layer 6 - Presentation
+## [Task 3] Layer 6 - Presentation
 
 ![Presentation](https://raw.githubusercontent.com/Akasaru0/akasaru0.github.io/master/Images/THM%20OSI%20Model/presentation.png)
 
@@ -328,7 +328,7 @@ What is the main purpose that this Layer acts as?
 </details>
 
 
-# [Task 4] Layer 5 - Session
+## [Task 4] Layer 5 - Session
 
 ![Session](https://raw.githubusercontent.com/Akasaru0/akasaru0.github.io/master/Images/THM%20OSI%20Model/session.png)
 
@@ -369,7 +369,7 @@ What is the technical term for "small chunk of data"?
 </details>
 
 
-# [Task 4] Layer 4 - Transport
+## [Task 4] Layer 4 - Transport
 
 ![Transport](https://raw.githubusercontent.com/Akasaru0/akasaru0.github.io/master/Images/THM%20OSI%20Model/transport.png)
 
